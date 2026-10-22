@@ -7,7 +7,7 @@ Software developer, founder and independent researcher.
 - Continual learning architectures, SAT solving with lattice-quantized learning, local LLM fine-tuning.
 
 **Products I've built**
-- Modular company management platform (DERLE)
+- Modular company management platform
 - Courier/delivery management and organic marketplace platforms (TypeScript microservices, RabbitMQ, Supabase)
 - Virtual classroom, gym membership app, e-commerce web apps (Next.js, React, FastAPI)
 - Printable worksheet generator (automated PDF production)
