@@ -1,4 +1,4 @@
-## Hi, I'm Muhammed Ökmen 👋
+## Hi, I'm Muhammed Okmen 👋
 
 **Full-stack developer, founder & independent researcher.** I found, own and lead my own products, and I build production-style web platforms with
 **React · Node.js/TypeScript · Supabase (PostgreSQL)**, and I do research on integer-only neural network training.
