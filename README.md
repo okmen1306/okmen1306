@@ -10,17 +10,17 @@
 I design systems end to end: database schema and row-level security, REST APIs behind a gateway,
 role-based access, event-driven microservices, and React / Next.js / React Native clients.
 
-- **[PMS Platform](https://github.com/okmen1306/pms-platform)** · *founder & lead · in active development*: a project management system built as an API gateway plus 11 Fastify microservices,
+- **[PMS Platform](https://github.com/okmen1306/pms-platform)** · *founder & owner · in active development*: a project management system built as an API gateway plus 11 Fastify microservices,
   Supabase/PostgreSQL with RLS and permission-based RBAC, RabbitMQ events, Redis, a React 18 frontend, ~390 tests and CI.
 - **Sports club management platform:** 14 Node.js/PostgreSQL microservices behind a unified API gateway, built and run as IT Lead.
-- **Agri-food marketplace** (co-founder, owner & lead developer): Next.js 15 / React 19 web app, a React Native courier app, 13+ Fastify services,
+- **Agri-food marketplace** (founder, owner & lead developer): Next.js 15 / React 19 web app, a React Native courier app, 13+ Fastify services,
   Supabase Realtime and marketplace payments.
-- **Modular business-management SaaS** (founder & lead architect): a multi-tenant re-architecture of a live system, nearing production launch.
+- **Modular business-management SaaS** (founder, owner & lead architect): a multi-tenant re-architecture of a live system, nearing production launch.
 - **[ANTRE](https://github.com/okmen1306/antre-showcase)** (founder & developer): a real-time 3D product configurator (three.js, WebGL 2, offline PWA).
-- **Unreleased commercial platform** (founder & lead engineer): TypeScript/Node.js backend, Supabase Storage + RLS, payments and SMS OTP.
+- **Unreleased commercial platform** (founder, owner & lead engineer): TypeScript/Node.js backend, Supabase Storage + RLS, payments and SMS OTP.
 - Also my own: a virtual classroom platform, a gym-membership app and e-commerce web apps (Next.js, React, FastAPI).
 
-**Stack:** TypeScript · JavaScript · React · Next.js · React Native · Node.js · Express · Fastify · Supabase · PostgreSQL · RabbitMQ · Redis · Docker · Vitest · Playwright · Python · FastAPI
+**Web stack:** TypeScript · JavaScript · React · Next.js · React Native · Node.js · Express · Fastify · Supabase · PostgreSQL · RabbitMQ · Redis · Docker · Vitest · Playwright · Python · FastAPI
 
 ---
 
@@ -33,6 +33,16 @@ role-based access, event-driven microservices, and React / Next.js / React Nativ
 - Continual-learning architectures and SAT solving with clause learning.
 
 **Research stack:** Python · PyTorch · CUDA · C++
+
+---
+
+### 💻 Systems & desktop
+
+- **PackWraith** (founder & owner): Windows network optimization software with QoS and packet filtering to prioritize gaming traffic (C#).
+- **SyncWave:** synchronized multi-speaker audio streaming (C++).
+- An experimental SAT solver with clause learning (C++/CUDA).
+
+**Languages:** C++ · C# · C · Python · TypeScript · JavaScript · SQL
 
 ---
 
