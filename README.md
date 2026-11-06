@@ -8,12 +8,16 @@
 ### 🛠 Full-stack development
 
 I design systems end to end: database schema and row-level security, REST APIs behind a gateway,
-role-based access, event-driven microservices, and React / Next.js / React Native clients.
+role-based access, and React / Next.js / React Native clients.
 
-- **[PMS Platform](https://github.com/okmen1306/pms-platform)** · *founder & owner · in active development*: a project management system built as an API gateway plus 11 Fastify microservices,
-  Supabase/PostgreSQL with RLS and permission-based RBAC, RabbitMQ events, Redis, a React 18 frontend, ~390 tests and CI.
-- **Sports club management platform:** 14 Node.js/PostgreSQL microservices behind a unified API gateway, built and run as IT Lead.
-- **Agri-food marketplace** (founder, owner & lead developer): Next.js 15 / React 19 web app, a React Native courier app, 13+ Fastify services,
+**How I architect:** modular and *microservice-ready*, not microservices on day one. Clear service boundaries and
+event-driven communication from the start, so any part can be split out when traffic grows, without paying the
+operational cost of microservices up front. One area of work never blocks another.
+
+- **[PMS Platform](https://github.com/okmen1306/pms-platform)** · *founder & owner · in active development*: a project management system built as an API gateway plus 11 independently deployable Fastify services
+  on a shared Supabase/PostgreSQL with per-service table ownership, RLS and permission-based RBAC, RabbitMQ events, Redis, a React 18 frontend, ~390 tests and CI.
+- **Sports club management platform:** a 14-service modular Node.js/PostgreSQL platform (microservice-ready) behind a unified API gateway, built and run as IT Lead.
+- **Agri-food marketplace** (founder, owner & lead developer): Next.js 15 / React 19 web app, a React Native courier app, 13+ Fastify services (microservice-ready),
   Supabase Realtime and marketplace payments.
 - **Modular business-management SaaS** (founder, owner & lead architect): a multi-tenant re-architecture of a live system, nearing production launch.
 - **[ANTRE](https://github.com/okmen1306/antre-showcase)** (founder & developer): a real-time 3D product configurator (three.js, WebGL 2, offline PWA).
