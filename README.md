@@ -42,11 +42,13 @@ operational cost of microservices up front. One area of work never blocks anothe
 
 ### 💻 Systems & desktop
 
+- **[DisplayTuner](https://github.com/okmen1306/DisplayTuner):** a native macOS menu bar app (Swift 6, SwiftUI) that replaces BetterDisplay, Razer Synapse and ASUS Armoury Crate:
+  DDC/CI monitor control, RGB Full forcing, refresh rates, gamma and color filters, a draggable 10-band headset EQ, and mouse/keyboard lighting over reverse-engineered HID protocols.
 - **PackWraith** (founder & owner): Windows network optimization software with QoS and packet filtering to prioritize gaming traffic (C#).
 - **SyncWave:** synchronized multi-speaker audio streaming (C++).
 - An experimental SAT solver with clause learning (C++/CUDA).
 
-**Languages:** C++ · C# · C · Python · TypeScript · JavaScript · SQL
+**Languages:** Swift · C++ · C# · C · Python · TypeScript · JavaScript · SQL
 
 ---
 
